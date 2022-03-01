@@ -8,4 +8,4 @@ Aqui estan mis resultados.
 
 ## Instrucciones
 
-para visualizar el trabajo, clonal el repo y abrir el index en un navegador.
+Para visualizar el trabajo, clonar el repo y abrir el index en un navegador.
